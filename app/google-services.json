@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030214583100",
+    "firebase_url": "https://komunikasidatajadi.firebaseio.com",
+    "project_id": "komunikasidatajadi",
+    "storage_bucket": "komunikasidatajadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030214583100:android:e6df0cdcfe6cf5bf50d439",
+        "android_client_info": {
+          "package_name": "com.example.komunikasidatajadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030214583100-mra6nhfkvknhcqdq9n26farjluj1uat7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXqfpfHuEGnzY8t8ZwBqNoO2htr2olYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030214583100-mra6nhfkvknhcqdq9n26farjluj1uat7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
